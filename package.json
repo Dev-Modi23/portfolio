@@ -32,11 +32,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sanidhyy/portfolio.git"
+    "url": "https://github.com/Dev-Modi23/portfolio"
   },
-  "homepage": "https://github.com/sanidhyy/portfolio#readme",
+  "homepage": "https://github.com/Dev-Modi23/portfolio",
   "bugs": {
-    "url": "https://github.com/sanidhyy/portfolio/issues",
+    "url": "https://github.com/Dev-Modi23/portfolio",
     "email": "devmodi2308@gmail.com"
   },
   "scripts": {
