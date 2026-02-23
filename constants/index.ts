@@ -39,7 +39,7 @@ export const LINKS = [
 export const EXTRA_LINKS = {
   linkedin: "https://www.linkedin.com/in/dev-modi-67a639341/",
   github: "https://github.com/Dev-Modi23",
-  resume: "/resume.pdf",
+  resume: "/icons/Resume.pdf",
   source_code: "https://github.com/Dev-Modi23/portfolio",
   email: "devmodi2308@gmail.com",
 } as const;
