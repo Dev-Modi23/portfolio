@@ -33,7 +33,7 @@ decided to pursue my interest in <b className="font-medium">technology and progr
 I started learning about{" "}
 <b className="font-medium">Machine Learning and Data Science</b>.{" "}
 <i className="italic">My favorite part of programming</i> is solving
-problems and building projects. I <u className="underline">love</u> turning
+problems and building projects. I love turning
 ideas into real-world applications through code. I am
 also learning Machine Learning and AI tools. I am always looking to learn
 new technologies and improve my skills. I am currently working towards a{" "}
