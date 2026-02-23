@@ -1,19 +1,17 @@
-# My Portfolio Website
+# Dev Modi – Portfolio Website
 
-This is my personal portfolio website built using **Next.js, React, and Tailwind CSS**.
-It showcases my projects, skills, and experience.
+This is my personal portfolio website built with **Next.js and React**.
+It showcases my projects, skills, and interest in **Machine Learning and Data Science**.
 
-## 🚀 Live Website
+## 🌐 Live Website
 
-(Add your deployed website link here)
+(You can add your deployed website link here after deploying on Vercel)
 
-## 📌 Features
+## 🚀 About Me
 
-* Modern UI/UX design
-* Responsive for all devices
-* Projects showcase
-* Skills and experience section
-* Contact form
+Hi, I'm **Dev Modi**.
+I am a student passionate about **Machine Learning, Data Science, and Web Development**.
+I enjoy building projects and learning new technologies.
 
 ## 🛠️ Tech Stack
 
@@ -22,52 +20,48 @@ It showcases my projects, skills, and experience.
 * TypeScript
 * Tailwind CSS
 
-## 📂 Installation & Setup
+## 📂 Run Locally
 
-1. Clone the repository
+Clone the repository
 
-```
-git clone https://github.com/your-username/your-repo-name.git
-```
-
-2. Go to project folder
-
-```
-cd your-repo-name
+```bash
+git clone https://github.com/Dev-Modi23/portfolio.git
 ```
 
-3. Install dependencies
+Go to the project folder
 
+```bash
+cd portfolio
 ```
+
+Install dependencies
+
+```bash
 npm install
 ```
 
-4. Run the project
+Run the project
 
-```
+```bash
 npm run dev
 ```
 
-The website will run on:
+Open in browser
 
 ```
 http://localhost:3000
 ```
 
-## 📷 Screenshots
+## 📁 Repository
 
-(Add screenshots of your portfolio here)
-
-## 🙋‍♂️ About Me
-
-Hi, I'm **Dev Modi**.
-I am interested in **Web Development, AI, and Data Analytics**.
+GitHub Repo:
+https://github.com/Dev-Modi23/portfolio
 
 ## 📬 Contact
 
-* LinkedIn: (Add your LinkedIn link)
-* Email: (Add your email)
+* GitHub: https://github.com/Dev-Modi23
+* LinkedIn: (Add your LinkedIn link here)
 
 ---
 
-⭐ If you like this project, please give it a star.
+⭐ If you like this project, feel free to star the repository.
