@@ -37,7 +37,7 @@ const Intro = () => {
             }}
           >
             <Image
-              src="/icon.png"
+              src="D:\portfolio-main\public\logo.jpeg"
               alt={`${OWNER_NAME.split(" ")[0]} portrait`}
               width={192}
               height={192}
