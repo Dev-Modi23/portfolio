@@ -47,11 +47,19 @@ export const EXTRA_LINKS = {
 // Data for work experience
 export const EXPERIENCES_DATA = [
   {
+    title: "Education",
+    icon: React.createElement(LuGraduationCap),
+  },
+  {
     title: "Bachelor of Engineering in Computer Engineering (GEC, Surat)",
     description:
       "Focused on  Data science, Data visualization, Algorithms, and Machine learning.",
     icon: React.createElement(LuGraduationCap),
     date: "2024-2027",
+  },
+  {
+    title: "Experince",
+    icon: React.createElement(CgWorkAlt),
   },
   {
     title: "Shell Edunet (Green Skills & AI Lab)",

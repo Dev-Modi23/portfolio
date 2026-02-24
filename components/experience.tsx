@@ -26,7 +26,7 @@ const Experience = () => {
 
   return (
     <section ref={ref} id="experience" className="scroll-mt-28 mb-28 sm:mb-40">
-      <SectionHeading>My Education & Experience</SectionHeading>
+      <SectionHeading>Education & Experience</SectionHeading>
 
       <VerticalTimeline lineColor="">
         {EXPERIENCES_DATA.map((experience, i) => (
@@ -47,7 +47,7 @@ const Experience = () => {
                     ? "0.4rem solid #9ca3af"
                     : "0.4rem solid rgba(255, 255, 255, 0.5)",
               }}
-              date={experience.date}
+              date={'date' in experience ? experience.date ?? "" : ""}
               icon={experience.icon}
               iconStyle={{
                 background:
@@ -57,9 +57,11 @@ const Experience = () => {
             >
               <h3 className="font-semibold">{experience.title}</h3>
 
-              <p className="!mt-1 !font-normal text-gray-700 dark:text-white/75">
-                {experience.description}
-              </p>
+              {'description' in experience && (
+                <p className="!mt-1 !font-normal text-gray-700 dark:text-white/75">
+                  {experience.description}
+                </p>
+              )}
             </VerticalTimelineElement>
           </React.Fragment>
         ))}
