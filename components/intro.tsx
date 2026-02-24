@@ -58,7 +58,6 @@ const Intro = () => {
             }}
             className="absolute text-2xl bottom-0 right-0"
           >
-            👋
           </motion.span>
         </div>
       </div>
