@@ -5,12 +5,12 @@ It showcases my projects, skills, and interest in **Machine Learning and Data Sc
 
 ## 🌐 Live Website
 
-(You can add your deployed website link here after deploying on Vercel)
+(https://devmodiportfolio.vercel.app/)
 
 ## 🚀 About Me
 
 Hi, I'm **Dev Modi**.
-I am a student passionate about **Machine Learning, Data Science, and Web Development**.
+I am a student passionate about **Machine Learning, Data Science, and Artificial Intelligence**.
 I enjoy building projects and learning new technologies.
 
 ## 🛠️ Tech Stack
@@ -60,7 +60,7 @@ https://github.com/Dev-Modi23/portfolio
 ## 📬 Contact
 
 * GitHub: https://github.com/Dev-Modi23
-* LinkedIn: (Add your LinkedIn link here)
+* LinkedIn: https://www.linkedin.com/in/dev-modi-67a639341
 
 ---
 
